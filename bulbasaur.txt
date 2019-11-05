@@ -1,2 +1,3 @@
 move: vine whip
 move: kick
+move: fall
