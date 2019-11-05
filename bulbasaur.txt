@@ -1,1 +1,2 @@
 move: vine whip
+move: kick
